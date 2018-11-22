@@ -24,7 +24,6 @@ allure {
 }
 
 dependencies {
-
     compile 'io.cucumber:cucumber-java:3.0.2'
     compile 'io.cucumber:cucumber-junit:3.0.2'
     compile 'io.qameta.allure:allure-cucumber3-jvm:2.7.0'
